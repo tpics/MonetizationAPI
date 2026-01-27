@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{9AF9862B-827C-4B86-8367-DF83D75918E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonetizationAPI", "TestAPI\MonetizationAPI.csproj", "{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AF9862B-827C-4B86-8367-DF83D75918E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF9862B-827C-4B86-8367-DF83D75918E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF9862B-827C-4B86-8367-DF83D75918E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF9862B-827C-4B86-8367-DF83D75918E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A135F3-69A0-4A49-A34E-2A8CB542D248}
+	EndGlobalSection
+EndGlobal
