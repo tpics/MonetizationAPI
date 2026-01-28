@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonetizationAPI", "TestAPI\MonetizationAPI.csproj", "{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTest", "IntegrationTest\IntegrationTest.csproj", "{2F55D41E-321E-48DD-BFAE-4A2CB0FCDE26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0CF68EC-D94A-419B-B31B-E4800AEAD3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F55D41E-321E-48DD-BFAE-4A2CB0FCDE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F55D41E-321E-48DD-BFAE-4A2CB0FCDE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F55D41E-321E-48DD-BFAE-4A2CB0FCDE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F55D41E-321E-48DD-BFAE-4A2CB0FCDE26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
