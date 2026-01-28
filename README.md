@@ -13,7 +13,8 @@ A programmable API monetization gateway that sits between external API consumers
 - .NET 8.0 SDK
 - Docker and Docker Compose
 - SQL Server 2022 (or use Docker version)
-
+## ERD
+\Doc\MonetizationDB ERD.png
 ## Quick Start
 
 ### Using Docker Compose (Recommended)
